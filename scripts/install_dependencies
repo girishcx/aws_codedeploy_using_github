@@ -1,4 +1,5 @@
 #!/bin/bash
 #yum install -y httpd
-apt-get install -y mini-httpd
+sudo apt-get install apache2
+#apt-get install -y mini-httpd
 
